@@ -645,8 +645,8 @@ ul.social-buttons li a:active {
   outline: none;
 }
 .portfolio-modal .modal-dialog {
-  margin-top: 0;
-  width: 80%;
+  margin: 0 auto;
+  width: 95%;
   height: 100%;
 }
 .portfolio-modal .modal-content {
