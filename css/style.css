@@ -280,8 +280,9 @@ section h2.section-heading {
   margin-bottom: 15px;
 }
 section h3.section-subheading {
-  font-size: 16px;
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-family: 'Questrial', sans-serif;
+  /* font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   text-transform: none;
   font-style: italic;
   font-weight: 400;
@@ -646,6 +647,7 @@ ul.social-buttons li a:active {
 }
 .portfolio-modal .modal-dialog {
   margin: 0 auto;
+  -moz- margin: 0 auto;
   width: 95%;
   height: 100%;
 }
